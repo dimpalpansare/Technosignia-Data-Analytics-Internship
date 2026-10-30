@@ -1,4 +1,4 @@
-# Technosignia-Data-Analytics-Internship
+# Technosignia-Data-Analytics-Internship Training Task
 Data Analyst Internship Training Tasks - Day 11 to Day 15
 # Technosignia Data Analyst Internship – Day 11 to Day 15
 
